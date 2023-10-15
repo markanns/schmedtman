@@ -6,7 +6,7 @@ export default function PageNav() {
     <nav className={styles.nav}>
       <ul>
         <li>
-          <Link to="/">Home</Link>
+          <Link to="app">Home</Link>
         </li>
         <li>
           <Link to="/pricing">Pricing</Link>
