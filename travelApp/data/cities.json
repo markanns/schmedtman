@@ -35,6 +35,54 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "date": "2023-10-22T17:41:20.566Z",
+      "notes": "",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "40.006691020076424",
+        "lng": "-0.0005149841308593751"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "date": "2023-10-22T17:52:00.676Z",
+      "notes": "dasdasad",
+      "emoji": "🇵🇹",
+      "position": {
+        "lat": "38.70464069835524",
+        "lng": "-9.20207977294922"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Miranda",
+      "country": "Spain",
+      "date": "2023-10-22T17:52:29.223Z",
+      "notes": "",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "43.27766279489969",
+        "lng": "-6.240234375"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Pojana Maggiore",
+      "country": "Italy",
+      "date": "2023-10-22T17:53:49.225Z",
+      "notes": "",
+      "emoji": "🇮🇹",
+      "position": {
+        "lat": "45.326214156696565",
+        "lng": "11.513671875000002"
+      },
+      "id": 98443203
     }
   ]
 }
